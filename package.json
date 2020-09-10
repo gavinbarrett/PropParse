@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "WFF Parser for propositional logic",
   "type": "module",
-  "main": "main.js",
+  "main": "src/parser.js",
   "scripts": {
     "test": "jest parser.test.js"
   },

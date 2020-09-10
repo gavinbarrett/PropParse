@@ -1,4 +1,4 @@
-import wff_parse from '../src/parser.js';
+import wff_parse from '../src/parser.cjs';
 
 describe('WFF test 1', () => {
 	test("P -> Q, P, Q", () => {
