@@ -2,7 +2,6 @@
   "name": "prop-parser",
   "version": "1.0.3",
   "description": "WFF Parser for propositional logic",
-  "type": "module",
   "main": "src/parser.js",
   "scripts": {
     "test": "jest parser.test.js"
