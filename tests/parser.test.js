@@ -1,4 +1,4 @@
-import wff_parse from '../src/parser.cjs';
+const wff_parse = require('../src/parser').wff_parse;
 
 describe('WFF test 1', () => {
 	test("P -> Q, P, Q", () => {

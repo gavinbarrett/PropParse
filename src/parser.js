@@ -179,4 +179,4 @@ const wff_parse = (string) => {
 	return 1;
 }
 
-export default wff_parse;
+exports.wff_parse = wff_parse;
