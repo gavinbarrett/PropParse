@@ -1,6 +1,6 @@
 {
   "name": "prop-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WFF Parser for propositional logic",
   "type": "module",
   "main": "src/parser.js",
